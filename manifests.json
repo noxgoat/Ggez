@@ -1,0 +1,13 @@
+{
+    "id": "ggez.aura",
+    "name": "Aura",
+    "version": "1.0.0",
+    "description": "Descrição do seu plugin",
+    "authors": [
+        {
+            "name": "noxgoat",
+            "id": "246292202186211328"
+        }
+    ],
+    "main": "aura.js"
+}
